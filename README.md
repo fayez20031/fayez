@@ -1,2 +1,0 @@
-# fayez
-skrypt
